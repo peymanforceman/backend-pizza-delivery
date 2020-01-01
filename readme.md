@@ -1,4 +1,4 @@
-### Quiz Maker , Perspective Tool
+### Pizza Delivery App - Backend
 This is a technical challenge for `innoscripta.com`
 
 Description : This project includes the backend and APIs of a pizza online ordering service + All Unit and Feature Tests.
