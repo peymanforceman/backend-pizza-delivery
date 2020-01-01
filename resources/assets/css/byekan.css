@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "byekan";
+    src: url('../fonts/yekan.ttf') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
+
+.byekan {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'byekan' !important;
+}
